@@ -1,0 +1,528 @@
+Year,Title,Author,Type,Genre,Pages
+2024,Macbeth,William Shakespeare,F,classic,191
+2024,Robinson Crusoe,Daniel Defoe,F,classic,316
+2024,Oliver Twist,Charles Dickens,F,classic,442
+2024,A Study in Scarlet and The Sign of the Four,Sir Arthur Conan Doyle,F,mystery,204
+2024,The Children of Hurin,J.R.R. Tolkien,F,fantasy,292
+2024,The Nature of Middle-Earth,J.R.R. Tolkien,F,fantasy,412
+2024,Children of Dune ,Frank Herbert,F,scifi,477
+2024,Project Pope,Clifford D. Simak,F,scifi,311
+2024,To Your Scattered Bodies Go,Philip Jose Farmer,F,scifi,222
+2024,Captive Universe,Harry Harrison,F,scifi,160
+2024,The Stainless Steel Rat's Revenger,Harry Harrison,F,scifi,191
+2024,Roadmarks,Roger Zelazny,F,scifi,185
+2024,Bones of the Earth ,Michael Swanwick,F,scifi,383
+2024,Doomsday Book,Connie Willis,F,scifi,578
+2024,Project Hail Mary,Andy Weir,F,scifi,476
+2023,David Copperfield,Charles Dickens,F,classic,719
+2023,Hard Times,Charles Dickens,F,classic,292
+2023,Dracula,Bram Stoker,F,classic,362
+2023,The Ball and the Cross,G.K. Chesterton,F,fiction,178
+2023,The Man Who Was Thursday,G.K. Chesterton,F,fiction,110
+2023,The Fellowship of the Ring,J.R.R. Tolkien,F,fantasy,407
+2023,The Two Towers,J.R.R. Tolkien,F,fantasy,331
+2023,The Return of the King,J.R.R. Tolkien,F,fantasy,392
+2023,A Canticle for Leibowitz,Walter M. Miller Jr.,F,scifi,278
+2023,Death is a Lonely Business,Ray Bradbury,F,mystery,232
+2023,The Man in the High Castle,Philip K. Dick,F,scifi,274
+2023,Dune Messiah,Frank Herbert,F,scifi,281
+2023,Rendezvous with Rama,Arthur C. Clarke,F,scifi,243
+2023,Childhood's End ,Arthur C. Clarke,F,scifi,212
+2023,The Flight of the Horse,Larry Niven,F,scifi,209
+2023,A World Out of Time,Larry Niven,F,scifi,246
+2023,Gateway,Frederick Pohl,F,scifi,278
+2023,Time Travelers from Isaac Asimov's Science Fiction Magazine,Gardner Dozois,F,scifi,275
+2023,Non-stop,Brian Aldiss,F,scifi,182
+2022,Pride and Prejudice,Jane Austen,F,classic,368
+2022,The Brothers Karamazov,Fyodor Dostoevsky,F,classic,936
+2022,The Hunchback of Notre-Dame,Victor Hugo,F,classic,429
+2022,Kidnapped,Robert Louis Stevenson,F,classic,221
+2022,Treasure Island,Robert Louis Stevenson,F,classic,223
+2022,The Fall of the House of Usher and Other Tales,Edgar Allan Poe,F,classic,383
+2022,Out of the Silent Planet,C.S. Lewis,F,scifi,160
+2022,Perelandra,C.S. Lewis,F,scifi,222
+2022,That Hideous Strength,C.S. Lewis,F,scifi,382
+2022,Orphans of the Sky,Robert A. Heinlein,F,scifi,128
+2022,The Stainless Steel Rat,Harry Harrison,F,scifi,160
+2022,The Worlds of Frank Herbert,Frank Herbert,F,scifi,247
+2021,Hamlet,William Shakespeare,F,classic,147
+2021,Inferno,Dante Alighieri,F,classic,338
+2021,Purgatory,Dante Alighieri,F,classic,313
+2021,Paradise,Dante Alighieri,F,classic,312
+2021,The Idiot,Fyodor Dostoevsky,F,classic,559
+2021,A Medicine for Melancholy,Ray Bradbury,F,scifi,307
+2021,The Currents of Space,Isaac Asimov,F,scifi,191
+2021,The Door into Summer,Robert A. Heinlein,F,scifi,291
+2021,Whipping Star,Frank Herbert,F,scifi,188
+2021,Destination: Void,Frank Herbert,F,scifi,276
+2021,To Say Nothing of the Dog,Connie Willis,F,scifi,493
+2021,Harry Potter and the Sorcerer's Stone,J.K. Rowling,F,fantasy,309
+2021,Harry Potter and the Chamber of Secrets,J.K. Rowling,F,fantasy,341
+2021,Harry Potter and the Prisoner of Azkaban,J.K. Rowling,F,fantasy,435
+2021,Harry Potter and the Goblet of Fire,J.K. Rowling,F,fantasy,734
+2021,Harry Potter and the Order of the Phoenix,J.K. Rowling,F,fantasy,870
+2021,Harry Potter and the Half-Blood Prince,J.K. Rowling,F,fantasy,652
+2021,Harry Potter and the Deathly Hallows,J.K. Rowling,F,fantasy,759
+2021,The Tales of Beedle the Bard,J.K. Rowling,F,fantasy,107
+2020,Bleak House,Charles Dickens,F,classic,740
+2020,Of Mice and Men,John Steinbeck,F,classic,107
+2020,The Death of Ivan Ilyich,Leo Tolstoy,F,classic,134
+2020,Brave New World,Aldous Huxley,F,classic,177
+2020,Something Wicked this Way Comes,Ray Bradbury,F,classic,293
+2020,Bradbury Classic Short Stories I (from The Golden Apples of the Sun and R is for Rocket),Ray Bradbury,F,classic,348
+2020,The Sirens of Titan,Kurt Vonnegut,F,scifi,326
+2020,Carpathian Castle,Jules Verne,F,mystery,190
+2020,Supertoys Last All Summer Long and Other Stories of Future Time,Brian Aldiss,F,scifi,232
+2020,Project Pendulum,Robert Silverberg,F,scifi,210
+2020,The Integral Trees,Larry Niven,F,scifi,267
+2020,Dune ,Frank Herbert,F,scifi,512
+2020,The Dosadi Experiment,Frank Herbert,F,scifi,343
+2020,Old Man's War,John Scalzi,F,scifi,311
+2020,Timeline,Michael Crichton,F,scifi,489
+2020,Tales from Watership Down,Richard Adams,F,fantasy,332
+2020,Sharpe's Rifles,Bernard Cornwell,F,historical,350
+2019,Hull Zero Three,Greg Bear,F,scifi,307
+2019,Eon,Greg Bear,F,scifi,502
+2019,"So Long, and Thanks for all the Fish",Douglas Adams,F,scifi,167
+2019,Mostly Harmless,Douglas Adams,F,scifi,218
+2019,Sunspot,Arthur C. Clarke and Stephen Baxter,F,scifi,325
+2019,Dragonflight,Anne McCaffrey,F,fantasy,286
+2019,Dragonquest,Anne McCaffrey,F,fantasy,315
+2019,The White Dragon,Anne McCaffrey,F,fantasy,445
+2019,Dragonsong,Anne McCaffrey,F,fantasy,176
+2019,Silas Marner,George Eliot,F,classic,214
+2019,Notes from Underground,Fyodor Dostoevsky,F,classic,153
+2019,The Essential Kafka,Franz Kafka,F,classic,611
+2018,The Hitchhiker's Guide to the Galaxy,Douglas Adams,F,scifi,216
+2018,The Restaurant at the End of the Universe,Douglas Adams,F,scifi,245
+2018,"Life, the Universe, and Everything",Douglas Adams,F,scifi,227
+2018,Pebble in the Sky,Isaac Asimov,F,scifi,191
+2018,The End of Eternity,Isaac Asimov,F,scifi,192
+2018,Time's Eye,Arthur C. Clarke and Stephen Baxter,F,scifi,337
+2018,Science Fiction Short Stories,collection,F,scifi,471
+2018,Time Travel Short Stories,collection,F,scifi,338
+2018,1984,George Orwell,F,classic,326
+2018,The Screwtape Letters,C.S. Lewis,F,classic,209
+2017,The Time Ships,Stephen Baxter,F,scifi,520
+2017,Time Travelers Never Die,Jack McDevitt,F,scifi,371
+2017,The Accidental Time Machine,Joe Haldeman,F,scifi,276
+2017,Ready Player One,Ernest Cline,F,scifi,372
+2017,Do Androids Dream of Electric Ship?,Philip K. Dick,F,scifi,173
+2017,Fahrenheit 451,Ray Bradbury,F,classic,165
+2015,Tales of Mystery and Terror,Edgar Allan Poe,F,classic,235
+2015,Purgatory,Dante Alighieri,F,classic,367
+2015,The Long Earth,Terry Pratchet and Stephen Baxter,F,scifi,336
+2015,The Martian Chronicles,Ray Bradbury,F,scifi,89
+2015,The Illustrated Man,Ray Bradbury,F,scifi,252
+2015,Till We Have Faces,C.S. Lewis,F,fantasy,309
+2015,The Portrait of Dorian Grey,Oscar Wilde,F,classic,216
+2014,"The Qur'an: Text, Translation, and Commentary",Abdullah Yusuf Ali,F,historical,1812
+2014,The Life and Adventures of Nicholas Nickleby,Charles Dickens,F,classic,811
+2014,The Great Gatsby,F. Scott Fitzgerald,F,classic,189
+2014,Frankenstein,Mary Shelley,F,classic,156
+2014,The Phantom of the Opera,Gaston Leroux,F,classic,286
+2014,"The Three Theban Plays: Antigone, Oedipus Rex, Oedipus at Colonus",Sophocles,F,classic,388
+2014,The Brothers Karamazov,Fyodor Dostoevsky,F,classic,936
+2014,Jane Eyre,Charlotte Bronte,F,classic,398
+2014,Wuthering Heights ,Emily Bronte,F,classic,320
+2014,The Hobbit,J.R.R. Tolkien,F,fantasy,287
+2014,The Fellowship of the Ring,J.R.R. Tolkien,F,fantasy,526
+2014,The Two Towers ,J.R.R. Tolkien,F,fantasy,447
+2014,The Return of the King,J.R.R. Tolkien,F,fantasy,520
+2014,The Silmarillion,J.R.R. Tolkien,F,fantasy,366
+2014,Of Other Worlds: Essays and Short Stories,C.S. Lewis,F,fantasy,145
+2014,The Memory of Earth,Orson Scott Card,F,scifi,330
+2014,The Folk of the Fringe,Orson Scott Card,F,scifi,273
+2014,The Gods Themselves,Isaac Asimov,F,scifi,252
+2014,Deep Secret,Diana Wynne Jones,F,scifi,375
+2013,The Grapes of Wrath,John Steinbeck,F,classic,619
+2013,Les Miserables,Victor Hugo,F,classic,1232
+2013,The Hunchback of Notre-Dame,Victor Hugo,F,classic,500
+2013,Crime and Punishment,Fyodor Dostoevsky,F,classic,576
+2013,Metamorphosis and Other Stories,Franz Kafka,F,classic,218
+2013,A Tale of Two Cities ,Charles Dickens,F,classic,419
+2013,Cry the Beloved Country,Alan Paton,F,classic,277
+2013,The Canterbury Tales,Geoffrey Chaucer,F,classic,342
+2013,Piers Plowman,William Langland,F,classic,241
+2013,The Inheritors,Joseph Conrad,F,scifi,192
+2013,A Canticle for Leibowitz,Walter M. Miller Jr.,F,scifi,313
+2013,The Island of Dr. Moreau,H.G. Wells,F,scifi,128
+2013,In the Days of the Comet,H.G. Wells,F,scifi,223
+2013,The Wonderful Visit,H.G. Wells,F,scifi,240
+2013,Nemesis,Isaac Asimov,F,scifi,386
+2013,Nightfall,Isaac Asimov and Robert Silverberg,F,scifi,339
+2013,The Rings of Saturn,Isaac Asimov,F,scifi,144
+2013,The Robots of Dawn,Isaac Asimov,F,scifi,477
+2013,Robots and Empire,Isaac Asimov,F,scifi,468
+2013,Speaker for the Dead,Orson Scott Card,F,scifi,382
+2013,Ender's Shadow,Orson Scott Card,F,scifi,467
+2013,Xenocide,Orson Scott Card,F,scifi,592
+2013,Children of the Mind,Orson Scott Card,F,scifi,358
+2013,Shadow of the Hegemon,Orson Scott Card,F,scifi,358
+2013,Shadow Puppets ,Orson Scott Card,F,scifi,372
+2013,Llana of Gathol,Edgar Rice Burroughs,F,scifi,327
+2013,Tales From a Land That Time Forgot: The Complete Caspak Trilogy,Edgar Rice Burroughs,F,fantasy,259
+2013,The Land of Hidden Men,Edgar Rice Burroughs,F,fiction,206
+2013,"Complete Western Stories: The Bandit of Hell's Bend, The Deputy Sheriff of Comanche Country",Edgar Rice Burroughs,F,fiction,514
+2013,Trouble Shooter,Louis L'Amour,F,fiction,221
+2013,Ears of the Jungle,Pierre Boulle,F,historical,224
+2013,The Sanctuary Sparrow,Ellis Peters,F,mystery,222
+2013,The Pilgrim of Hate,Ellis Peters,F,mystery,190
+2013,A Rare Benedictine,Ellis Peters,F,mystery,150
+2013,Scorpia Rising,Anthony Horowitz,F,fiction,431
+2013,Icebound,Dean Koontz,F,fiction,405
+2013,Rare Earth,Davis Bunn,F,fiction,363
+2013,"The Homelanders: The Last Thing I Remember, The Long Way Home, The Truth of the Matter, The Final Hour",Andrew Klavan,F,fiction,110
+2013,8.4,Peter Hernon,F,fiction,460
+2013,Dragonspell,Donita K. Paul,F,fantasy,334
+2013,Ranger's Apprentice Book 8: The Kings of Clonmel ,John Flanagan,F,fantasy,358
+2013,Ranger's Apprentice Book 9: Halt's Peril,John Flanagan,F,fantasy,386
+2013,Ranger's Apprentice Book 10: The Emperor of Nihon-Ja,John Flanagan,F,fantasy,435
+2013,The Thief,Megan Whalen Turner,F,fantasy,280
+2013,The Queen of Attolia,Megan Whalen Turner,F,fantasy,360
+2013,A Conspiracy of Kings,Megan Whalen Turner,F,fantasy,316
+2013,Song of Albion Book 1: The Paradise War,Stephen Lawhead,F,fantasy,416
+2013,Song of Albion Book 2: The Silver Hand,Stephen Lawhead,F,fantasy,399
+2013,Song of Albion Book 3: The Endless Knot,Stephen Lawhead,F,fantasy,415
+2013,Inheritance,Christopher Paolini,F,fantasy,859
+2013,The Great Divorce,C.S. Lewis,F,fantasy,118
+2012,"Thuvia, Maid of Mars",Edgar Rice Burroughs,F,scifi,147
+2012,The Chessmen of Mars,Edgar Rice Burroughs,F,scifi,320
+2012,The Stolen Baccillus and Other Incidents ,H.G. Wells,F,scifi,162
+2012,Empyrion: The Search for Fierra,Stephen Lawhead,F,scifi,436
+2012,Fire Bringer,David Clement-Davies,F,fantasy,498
+2012,Animal Farm,George Orwell,F,classic,120
+2012,Dune,Frank Herbert,F,scifi,605
+2012,The Man Who Was Thursday,G.K. Chesterton,F,fiction,208
+2012,Sylvie and Bruno,Lewis Carroll,F,fantasy,356
+2012,One Day in the Life of Ivan Denisovich,Alexander Solzhenitsyn,F,classic,203
+2012,Castaways of the Flying Dutchman,Brian Jacques,F,fantasy,327
+2012,The Angel's Command,Brian Jacques,F,fantasy,374
+2012,Voyage of Slaves,Brian Jacques,F,fantasy,356
+2012,Lion of Babylon,Davis Bunn,F,fiction,378
+2012,Planet of the Apes,Pierre Boulle,F,scifi,248
+2012,The Thirty-nine Steps,John Buchan,F,classic,138
+2012,The Hobbit,J.R.R. Tolkien,F,fantasy,287
+2012,The Fellowship of the Ring,J.R.R. Tolkien,F,fantasy,526
+2012,The Two Towers ,J.R.R. Tolkien,F,fantasy,447
+2012,The Return of the King,J.R.R. Tolkien,F,fantasy,520
+2012,Offworld,Robin Parrish,F,scifi,361
+2012,Julius Caesar,William Shakespeare,F,classic,267
+2012,All Quiet on the Western Front,Erich Remarque,F,classic,295
+2012,To Kill a Mockingbird,Harper Lee,F,classic,281
+2012,Legend of the Celtic Stone,Michael Phillips,F,historical,623
+2012,Isle of Swords,Wayne Thomas Batson,F,fiction,341
+2012,Ender's Game,Orson Scott Card,F,scifi,324
+2012,Year of the Tiger,Jack Higgins,F,fiction,259
+2012,Thunder Point,Jack Higgins,F,fiction,337
+2012,Jurassic Park,Michael Crichton,F,scifi,399
+2012,Sphere,Michael Crichton,F,scifi,500
+2012,Stormbreaker,Anthony Horowitz,F,fiction,236
+2012,Point Blank,Anthony Horowitz,F,fiction,274
+2012,Skeleton Key,Anthony Horowitz,F,fiction,325
+2012,Eagle Strike,Anthony Horowitz,F,fiction,329
+2012,Scorpia,Anthony Horowitz,F,fiction,388
+2012,Ark Angel,Anthony Horowitz,F,fiction,323
+2012,Snakehead,Anthony Horowitz,F,fiction,385
+2012,Crocodile Tears,Anthony Horowitz,F,fiction,385
+2012,The Master Mind of Mars and Pirates of Venus,Edgar Rice Burroughs,F,scifi,317
+2012,Synthetic Men of Mars,Edgar Rice Burroughs,F,scifi,235
+2012,A Fighting Man of Mars,Edgar Rice Burroughs,F,scifi,285
+2012,John Carter and the Giant of Mars,Edgar Rice Burroughs,F,scifi,85
+2012,Skeleton Men of Jupiter,Edgar Rice Burroughs,F,scifi,54
+2012,Eragon,Christopher Paolini,F,fantasy,497
+2012,Eldest,Christopher Paolini,F,fantasy,668
+2012,Brisingr,Christopher Paolini,F,fantasy,748
+2012,Ranger's Apprentice Book 1: The Ruin of Gorlan,John Flanagan,F,fantasy,249
+2012,Ranger's Apprentice Book 2: The Burning Bridge,John Flanagan,F,fantasy,262
+2012,Ranger's Apprentice Book 3: The Icebound Land,John Flanagan,F,fantasy,266
+2012,Ranger's Apprentice Book 4: The Battle for Skandia,John Flanagan,F,fantasy,294
+2012,Ranger's Apprentice Book 5: The Sorcerer of the North,John Flanagan,F,fantasy,295
+2012,Ranger's Apprentice Book 6: The Siege of Macindaw,John Flanagan,F,fantasy,293
+2012,Ranger's Apprentice Book 7: Erak's Ransom,John Flanagan,F,fantasy,373
+2012,The Leper of Saint Giles,Ellis Peters,F,mystery,223
+2012,I Robot,Isaac Asimov,F,scifi,272
+2012,The Caves of Steel,Isaac Asimov,F,scifi,270
+2012,Foundation and Empire,Isaac Asimov ,F,scifi,224
+2012,Second Foundation,Isaac Asimov,F,scifi,187
+2012,Foundation's Edge,Isaac Asimov,F,scifi,431
+2012,Foundation and Earth,Isaac Asimov,F,scifi,510
+2011,The Shaping of Middle-Earth,J.R.R. Tolkien,F,fantasy,411
+2011,The Pearl,John Steinbeck,F,classic,78
+2011,Father Brown Selected Stories,G.K. Chesterton,F,mystery,411
+2011,Crispin At the Edge of the World,Avi,F,historical,231
+2011,Crispin At the End of Time,Avi,F,historical,223
+2011,Doomwyte,Brian Jacques,F,fantasy,373
+2011,The Remarkable Journey of Prince Jen,Lloyd Alexander,F,fantasy,269
+2011,The Horse and His Boy,C.S. Lewis,F,fantasy,224
+2011,"Guardians of Ga'hoole Collection: The Capture, The Journey, The Rescue",Kathryn Lasky,F,fantasy,674
+2011,The Sable Queen,Brian Jacques,F,fantasy,408
+2011,Prince Caspian,C.S. Lewis,F,fantasy,223
+2011,Black Horses for the King,Anne McCaffrey,F,historical,217
+2011,The Samurai's Tale,Erik Christian Haugaard,F,historical,234
+2011,The Siege,Kathryn Lasky,F,fantasy,203
+2011,The Voyage of the Dawn Treader,C.S. Lewis,F,fantasy,248
+2011,The Shattering,Kathryn Lasky,F,fantasy,176
+2011,The Burning,Kathryn Lasky,F,fantasy,210
+2011,Kingdom's Call,Chuck Black,F,fantasy,127
+2011,The Summer of the Danes,Ellis Peters,F,mystery,251
+2011,Frankenstein,Mary Shelley,F,classic,139
+2011,The Hatchling,Kathryn Lasky,F,fantasy,222
+2011,Selected Stories of H.G.Wells,H.G. Wells,F,scifi,395
+2011,Kingdom's Regin,Chuck Black,F,fantasy,151
+2011,The Outcast,Kathryn Lasky,F,fantasy,207
+2011,A Day in 2889,Jules Verne,F,scifi,31
+2011,The Shining Company,Rosemary Sutcliffe,F,historical,293
+2011,The First Collier,Kathryn Lasky,F,fantasy,176
+2011,The Rogue Crew,Brian Jacques,F,fantasy,387
+2011,The Coming of Hoole,Kathryn Lasky,F,fantasy,205
+2011,The Sword in the Stone,T.H. White,F,classic,288
+2011,Thirteen Detectives,G.K. Chesterton,F,mystery,254
+2011,The Food of the Gods and How it Came to Earth,H.G. Wells,F,scifi,217
+2011,Pudd'nhead Wilson,Mark Twain,F,classic,143
+2011,Vespers Rising,Rick Riordan and Peter Lerangis and Gordon Korman and Jude Watson,F,fiction,238
+2011,The Medusa Plot,Gordon Korman,F,fiction,222
+2011,A King's Ransom,Jude Watson,F,fiction,190
+2011,A Princess of Mars,Edgar Rice Burroughs,F,scifi,146
+2011,Off on a Comet! A Journey Through Planetary Space,H.G. Wells,F,scifi,308
+2011,The Gods of Mars,Edgar Rice Burroughs,F,scifi,247
+2011,Warlord of Mars,Edgar Rice Burroughs,F,scifi,325
+2011,Sword Song,Rosemary Sutcliffe,F,historical,272
+2011,When the Sleeper Wakes,H.G. Wells,F,scifi,183
+2011,Foundation,Isaac Asimov,F,scifi,296
+2011,The White Dragon,Anne McCaffrey,F,fantasy,445
+2011,Prelude to Foundaton,Isaac Asimov,F,scifi,493
+2011,The Dead of Night,Peter Lerangis,F,fiction,190
+2011,Great Expectations,Charles Dickens,F,classic,507
+2011,The Sword ,Bryan M. Litfin,F,fantasy,412
+2010,Redwall,Brian Jacques,F,fantasy,333
+2010,Mattimeo,Brian Jacques,F,fantasy,432
+2010,Mariel of Redwall,Brian Jacques,F,fantasy,378
+2010,Eulalia!,Brian Jacques,F,fantasy,389
+2010,Among the Brave,Margaret Peterson Haddix,F,fiction,229
+2010,Among the Enemy,Margaret Peterson Haddix,F,fiction,214
+2010,Among the Free,Margaret Peterson Haddix,F,fiction,194
+2010,The Pioneers,James Fenimore Cooper,F,classic,444
+2010,Brother Cadfael's Penance,Ellis Peters,F,mystery,273
+2010,An Excellent Mystery,Ellis Peters,F,mystery,190
+2010,The Raven in the Foregate,Ellis Peters,F,mystery,201
+2010,The Hermit of Eyton Forest,Ellis Peters,F,mystery,224
+2010,The Heretic's Apprentice,Ellis Peters,F,mystery,245
+2010,Just So Stories,Rudyard Kipling,F,classic,158
+2010,The Man Who Knew Too Much,G.K. Chesterton,F,fiction,190
+2010,Watership Down,Richard Adams,F,classic,478
+2010,Smith of Wootton Major and Farmer Giles of Ham,J.R.R. Tolkien,F,fantasy,156
+2010,The Hobbit,J.R.R. Tolkien,F,fantasy,287
+2010,The Fellowship of the Ring,J.R.R. Tolkien,F,fantasy,527
+2010,The Two Towers ,J.R.R. Tolkien,F,fantasy,447
+2010,The Return of the King,J.R.R. Tolkien,F,fantasy,520
+2010,Unfinished Tales,J.R.R. Tolkien,F,fantasy,415
+2010,Many Waters,Madeleine L'Engle,F,fantasy,310
+2010,"The Cosmic Trilogy: Out of the Silent Planet, Perelandra, That Hideous Strength",C.S. Lewis,F,scifi,753
+2010,The J.R.R. Tolkien Handbook,Colin Duriez,F,fantasy,293
+2010,Adventures in Odyssey: The Official Guide,Nathan Hoobler and the Adventures in Odyssey Team,F,fiction,529
+2010,The Tower of Geburah,John White,F,fantasy,402
+2010,Quest for the King,John White,F,fantasy,315
+2010,Hood,Stephen Lawhead,F,historical,479
+2010,Scarlet,Stephen Lawhead,F,historical,449
+2010,Tuck,Stephen Lawhead,F,historical,443
+2010,The Spy,James Fenimore Cooper,F,classic,350
+2010,The Iliad,Homer,F,classic,297
+2010,The Odyssey,Homer,F,classic,287
+2010,Moby Dick,Herman Melville,F,classic,536
+2010,The 39 Clues: The Maze of Bones,Rick Riordan  ,F,fiction,220
+2010,The 39 Clues: One False Note,Gordon Korman,F,fiction,174
+2010,The 39 Clues: The Sword Thief,Peter Lerangis,F,fiction,156
+2010,The 39 Clues: Beyond the Grave,Jude Watson,F,fiction,190
+2010,The 39 Clues: The Black Circle,Patrick Carman,F,fiction,168
+2010,The 39 Clues: In Too Deep,Jude Watson,F,fiction,202
+2010,The 39 Clues: The Viper's Nest,Peter Lerangis,F,fiction,190
+2010,The 39 Clues: The Emperor's Code,Gordon Korman,F,fiction,190
+2010,The 39 Clues: Storm Warning,Linda Sue Park,F,fiction,190
+2010,The 39 Clues: Into the Gauntlet ,Margaret Peterson Haddix,F,fiction,327
+2010,2001 A Space Odyssey,Arthur C. Clarke,F,scifi,221
+2010,Tolo the Volcano's Son,William Cameron Townsend,F,fiction,123
+2010,Sword at Sunset,Rosemary Sutcliffe,F,historical,495
+2010,The Hardy Boys: The Disappearing Floor,Franklin W. Dixon,F,mystery,176
+2010,"Lucky Starr Book 2: Lucky Starr and the Oceans of Venus, Lucky Starr and the Big Sun of Mercury",Isaac Asimov,F,scifi,307
+2010,The Chronicles of Salduwe Book 1,Dave Scorza,F,fantasy,336
+2010,The Chronicles of Salduwe Book 2: Salduwe's Secret,Dave Scorza,F,fantasy,409
+2010,Sir Kendrick and the Vastle of Bel Lione,Chuck Black,F,fantasy,170
+2010,Sir Bentley and Holbrook Court,Chuck Black,F,fantasy,166
+2010,Sir Dalton and the Shadow Heart,Chuck Black,F,fantasy,139
+2010,Lady Carliss and the Waters of Moorue,Chuck Black,F,fantasy,163
+2010,Sir Quinlan and the Swords of Valor,Chuck Black,F,fantasy,176
+2010,Sir Rowan and the Camerian Conquest,Chuck Black,F,fantasy,160
+2010,The Book of Three,Lloyd Alexander,F,fantasy,219
+2010,The Black Cauldron,Lloyd Alexander,F,fantasy,229
+2010,The Castle of Llyr,Lloyd Alexander,F,fantasy,206
+2010,Taran Wanderer,Lloyd Alexander,F,fantasy,254
+2010,The High King,Lloyd Alexander,F,fantasy,248
+2010,The Adventures of Huckleberry Finn,Mark Twain,F,classic,300
+2010,The Magician's Nephew,C.S. Lewis,F,fantasy,186
+2010,"The Lion, the Witch, and the Wardrobe",C.S. Lewis,F,fantasy,186
+2010,Byzantium,Stephen Lawhead,F,historical,870
+2009,The Mutiny of the Bounty,John Barrow,F,classic,256
+2009,The Arkadians,Lloyd Alexander,F,fantasy,272
+2009,Mrs. Frisby and the Rats of NIMH,Robert C. O'Brien,F,fantasy,233
+2009,Under Drake's Flag,G.A. Henty,F,historical,298
+2009,The Boy Knight,G.A. Henty,F,historical,264
+2009,The Phantom Tollboth,Norton Juster,F,fantasy,256
+2009,The Golden Dream of Carlo Chuchio,Lloyd Alexander,F,fantasy,306
+2009,Adventures of Don Quixote,Argentina Palacios,F,classic,59
+2009,"Carry on, Mr. Bowditch",Jean Lee Latham,F,fiction,151
+2009,Triss,Brian Jacques,F,fantasy,402
+2009,Marlfox,Brian Jacques,F,fantasy,365
+2009,The Bellmaker,Brian Jacques,F,fantasy,336
+2009,Rakkety Tam,Brian Jacques,F,fantasy,368
+2009,The Silmarillion,J.R.R. Tolkien,F,fantasy,378
+2009,The Return of the Shadow,J.R.R. Tolkien,F,fantasy,467
+2009,The Treason of Isengard,J.R.R. Tolkien,F,fantasy,459
+2009,The War of the Ring,J.R.R. Tolkien,F,fantasy,439
+2009,The End of the Third Age,J.R.R. Tolkien,F,fantasy,135
+2009,The Lord of the Rings: Weapons and Warfare,Chris Smith,F,fantasy,212
+2009,Crispin: The Cross of Lead,Avi,F,historical,262
+2009,Bridge to Terabithia,Katherine Paterson,F,fiction,143
+2009,The First Cadfael Omnibus,Ellis Peters,F,mystery,544
+2009,Give Me Liberty,L.M. Elliott,F,historical,345
+2009,The Count of Monte Cristo,Alexander Dumas,F,classic,441
+2009,The Dark is Rising,Susan Cooper,F,fantasy,244
+2009,The Old Man and the Sea,Ernest Hemingway,F,classic,127
+2009,The Lantern Bearers,Rosemary Sutcliffe,F,historical,248
+2009,Knight's Fee,Rosemary Sutcliffe,F,historical,240
+2009,The Silver Branch,Rosemary Sutcliffe,F,historical,215
+2009,The Eagle of the Ninth,Rosemary Sutcliffe,F,historical,293
+2009,"King Arthur Stories (The Sword and the Circle, The Light Beyong the Forest, The Road to Camlann)",Rosemary Sutcliffe,F,historical,652
+2009,Warrior Scarlet,Rosemary Sutcliffe,F,historical,184
+2009,The Deerslayer,James Fenimore Cooper,F,classic,534
+2009,The Last of the Mohicans,James Fenimore Cooper,F,classic,437
+2009,The Pathfinder,James Fenimore Cooper,F,classic,373
+2009,Remember the Alamo,Edward Ellis,F,historical,342
+2009,The Castle of Llyr,Lloyd Alexander,F,fantasy,206
+2009,Gulliver's Travels,Jonathan Swift,F,classic,281
+2009,Around the Moon,Jules Verne,F,scifi,192
+2009,A Wrinkle in Time,Madeleine L'Engle,F,scifi,190
+2009,Among the Hidden,Margaret Peterson Haddix,F,fiction,122
+2009,Among the Imposters,Margaret Peterson Haddix,F,fiction,172
+2009,Among the Betrayed,Margaret Peterson Haddix,F,fiction,156
+2009,Among the Barons,Margaret Peterson Haddix,F,fiction,182
+2009,Antar and the Eagles,William Mayne,F,fantasy,166
+2009,Mr. Tompkins in Paperback,George Gamow,F,scifi,186
+2009,Flatland,Edwin A. Abbott,F,scifi,103
+2009,Pirates of the Asteroids,Issac Asimov,F,scifi,144
+2009,The Potter's Field,Ellis Peters,F,mystery,229
+2009,The Witch of Blackbird Pond,Elizabeth George Speare,F,historical,249
+2009,The Confession of Brother Haluin,Ellis Peters,F,mystery,205
+2009,The Invisible Man,H.G. Wells,F,scifi,143
+2008,The Long Patrol,Brian Jacques,F,fantasy,358
+2008,Escape From the Island of Aquarius,Frank Peretti,F,fiction,120
+2008,The Hardy Boys: Crusade of the Flaming Sword,Franklin W. Dixon,F,mystery,152
+2008,The Hardy Boys: The Roaring River Mystery,Franklin W. Dixon,F,mystery,177
+2008,The Hardy Boys: The Secret of Skull Mountain,Franklin W. Dixon,F,mystery,156
+2008,The Hardy Boys: The Jungle Pyramid,Franklin W. Dixon,F,mystery,154
+2008,The Hardy Boys: The Clue of the Missing Serpent,Franklin W. Dixon,F,mystery,181
+2008,The Hardy Boys: Sheer Terror,Franklin W. Dixon,F,mystery,153
+2008,The Hardy Boys: Nowhere to Run,Franklin W. Dixon,F,mystery,151
+2008,The Three Investigators: The Myster of the Silver Spider,Robert Arthur,F,mystery,160
+2008,The Three Investigators: The Mystery of Monster Mountain,M.V. Carey,F,mystery,158
+2008,The Three Investigators: The Deadly Double,William Arden,F,mystery,140
+2008,The Three Investigators: The Mystery of the Laughing Shadow,William Arden,F,mystery,178
+2008,The Three Investigators: The Mystery of the Vanishing Treasure,Robert Arthur,F,mystery,159
+2008,The Three Investigators: The Mystery of the Blazing Cliffs,M.V. Carey,F,mystery,154
+2008,A Wind in the Door,Madeleine L'Engle,F,scifi,203
+2008,The Tombs of Anak,Frank Peretti,F,fiction,143
+2008,The Door in the Dragon's Throat,Frank Peretti,F,fiction,125
+2008,Glinda of Oz,L. Frank Baum,F,fantasy,159
+2008,Journey to Jo'burg,Beverly Naido,F,historical,75
+2008,Moccasin Trail,Eloise Jarvis McGraw,F,historical,247
+2008,Hatchet,Gary Paulsen,F,fiction,195
+2008,The First Men in the Moon,H.G. Wells,F,scifi,251
+2008,Around the World in Eighty Days,Jules Verne,F,fiction,208
+2008,The Great Wheel,Robert Lawson,F,historical,180
+2008,The Legend of Annie Murphy,Frank Peretti,F,fiction,151
+2008,Treasure Island,Robert Louis Stevenson,F,classic,254
+2008,A Swiftly Tilting Planet,Madeleine L'Engle,F,scifi,256
+2008,Summer of the Monkeys,Wilson Rawls,F,fiction,283
+2008,The Return of the King,J.R.R. Tolkien,F,fantasy,387
+2008,From the Earth to the Moon,Jules Verne,F,scifi,188
+2008,Tom Swift and His Dyna-4 Capsule,Victor Appleton II,F,scifi,160
+2008,Tom Swift and His Subocean Geotron,Victor Appleton II,F,scifi,160
+2008,Tom Swift and the Mystery Comet,Victor Appleton II,F,scifi,159
+2008,Lord Brocktree,Brian Jacques,F,fantasy,320
+2008,Tagggerung,Brian Jacques,F,fantasy,438
+2008,High Rhulain,Brian Jacques,F,fantasy,320
+2008,The Legend of Luke,Brian Jacques,F,fantasy,374
+2008,The Twenty-One Balloons,William du Bois,F,fiction,180
+2008,Hagbane's Doom,John Houghton,F,fantasy,187
+2008,Gublak's Greed,John Houghton,F,fantasy,188
+2008,Surin's Revenge,John Houghton,F,fantasy,186
+2008,Tergan's Lair,John Houghton,F,fantasy,188
+2008,Space Ranger,Isaac Asimov,F,scifi,144
+2008,Black Arrow,Robert Louis Stevenson,F,classic,234
+2008,Taran Wanderer,Lloyd Alexander,F,fantasy,212
+2008,The Deadly Curse of Toco-Rey,Frank Peretti,F,fiction,150
+2008,Number the Stars,Lois Lowry,F,historical,137
+2008,The High King,Lloyd Alexander,F,fantasy,304
+2008,Adam of the Road,Elizabeth Janet Gray,F,historical,317
+2008,The Hound of the Baskervilles,Arthur Conan Doyle,F,mystery,233
+2008,The Secret of the Desert Stone,Frank Peretti,F,fiction,156
+2008,The Sea Wolf,Jack London,F,classic,305
+2008,I am David,Anne Holm,F,historical,191
+2008,A Connecticut Yankee in King Arthur's Court,Mark Twain,F,classic,274
+2008,The Endless Step,Esther Hautzip,F,historical,243
+2007,Seabird,Holling Clancy Hollling,F,historical,28
+2007,Paddle-to-the-Sea,Holling Clancy Hollling,F,classic,28
+2007,Shark Beneath the Reef,Jean Craighead George,F,fiction,182
+2007,Island of the Blue Dolphins,Scott O'Dell,F,classic,181
+2007,Tales from the Odyssey Part 1: The One-Eyed Giant,Mary Pope Osborne,F,classic,93
+2007,Wambu: In the Valley of Death,Piet Prins,F,fiction,175
+2007,Salamandastron,Brian Jacques,F,fantasy,391
+2007,Young Fu of the Upper Yangtze,Elizabeth Foreman Lewis,F,classic,252
+2007,Pirate's Promise,Clyde Robert Bulla,F,historical,87
+2007,The Song of the King,Max Lucado,F,fiction,24
+2007,The Hardy Boys #190: Danger on the Diamond,Franklin W. Dixon,F,mystery,148
+2007,Poppy and Rye,Avi,F,fantasy,182
+2007,A Gift from Saint Francis,Joanna Cole,F,historical,11
+2007,Magic Treehouse: Dragon of the Red Dawn,Mary Pope Osborne,F,fantasy,105
+2007,The Hardy Boys #54: The Mysterious Caravan,Franklin W. Dixon,F,mystery,182
+2007,Martin the Warrior,Brian Jacques,F,fantasy,376
+2007,Theras and his Town,Caroline Dale Snedeker,F,historical,252
+2007,"CHS, The Chicago Years: The Caper",Nancy Rue,F,historical,188
+2007,"CHS, The Santa Fe Years: The Struggle",Nancy Rue,F,historical,186
+2007,The Secret of the Indian,Lynne Reid Banks,F,fiction,147
+2007,Johnny Tremain,Esther Forbes,F,historical,256
+2007,The Phoenix and the Carpet,E. Nesbit,F,fantasy,219
+2007,"CHS, The Santa Fe Years: The Discovery",Nancy Rue,F,historical,281
+2007,The Three Musketeers,Alexandre Dumas,F,classic,282
+2007,We Were There at the Battle of Britain,Clayton and K.S. Knight,F,historical,179
+2007,"CHS, The Chicago Years: The Stunt",Nancy Rue,F,historical,192
+2007,"CHS, The Chicago Years: The Capture",Nancy Rue,F,historical,177
+2007,"CHS, The Chicago Years: The Pursuit",Nancy Rue,F,historical,174
+2007,"CHS, The Salem Years: The Stowaway",Nancy Rue,F,historical,194
+2007,"CHS, The Santa Fe Years, The Stand",Nancy Rue,F,historical,183
+2007,"CHS, The Santa Fe Years: The Mission",Nancy Rue,F,historical,180
+2007,"CHS, The Santa Fe Years: The Mirage",Nancy Rue,F,historical,188
+2007,"CHS, The Santa Fe Years: The Choice",Nancy Rue,F,historical,184
+2007,"CHS, The Salem Years: The Samaritan",Nancy Rue,F,historical,208
+2007,"CHS, The Salem Years: The Accused",Nancy Rue,F,historical,202
+2007,"CHS, The Salem Years: The Guardian",Nancy Rue,F,historical,182
+2007,"CHS, The Saelm Years: The Rescue",Nancy Rue,F,historical,180
+2007,The Hobbit,J.R.R. Tolkien,F,fantasy,287
+2007,Outcast of Redwall,Brian Jacques,F,fantasy,394
+2007,My Side of the Mountain,Jean Craighead George,F,fiction,100
+2007,The Strange Case of Dr. Jekyll and Mr. Hyde,Robert Louis Stevenson,F,classic,78
+2007,Scout: The Secret of the Swamp,Piet Prins,F,fiction,187
+2007,The Last Battle,C.S. Lewis,F,fantasy,184
+2007,The War of the Worlds,H.G. Wells,F,scifi,173
+2007,The Story of Rolf,Allen French,F,classic,154
+2007,The Fellowship of the Ring,J.R.R. Tolkien,F,fantasy,527
+2007,Loamhedge,Brian Jacques,F,fantasy,424
+2007,A Traitor Among Us,Elizabeth Van Steenwyk,F,historical,124
+2007,The Book of Three,Lloyd Alexander,F,fantasy,224
+2007,The First Two Lives of Lukas-Kasha,Lloyd Alexander,F,fantasy,213
+2007,The Bronze Bow,Jean Craighead George,F,historical,230
+2007,The Black Hole,Alan Dean Foster,F,scifi,210
+2007,The Black Cauldron,Lloyd Alexander,F,fantasy,178
+2007,The Two Towers,J.R.R. Tolkien,F,fantasy,448
+2007,Journey to the Center of the Earth,Jules Verne,F,scifi,258
+2007,Pearls of Lutra,Brian Jacques,F,fantasy,408
